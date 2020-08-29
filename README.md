@@ -1,7 +1,9 @@
 # awesome-Automanous-3D-detection-methods 
 ## 前言
-该项目主要在对近期（17年）开始的**自动驾驶场景**的目标检测做一个汇总，持续更新，也欢迎大家参与进来。
-为了方便表示，该项目仅仅针对自动驾驶场景，分类方法按照输入进行划分，特别地，我们也对论文实验对应的论文做出一定的标注。
+该项目地址为：https://github.com/LittleYuanzi/awesome-Automanous-3D-detection-methods
+该项目主要在对近期（17年）开始的**自动驾驶场景**的目标检测方法做一个汇总，持续更新，也欢迎大家参与进来。为了方便表示，该项目仅仅针对自动驾驶场景，分类方法按照输入进行划分，特别地，我们也对论文实验对应的论文做出一定的标注。
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200829190742145.png?xoss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDgwNTM5Mg==,size_16,color_FFFFFF,t_70#pic_center)
+
 ### keywords
 #### inputs
 按照传感器的输入： __`monocular`__: 单目 &emsp; __`stereo`__: 双目 &emsp;__`lidar`__: 点云 &emsp;</br>
@@ -121,6 +123,9 @@
 - [[arxiv](https://arxiv.org/pdf/2008.10436.pdf)] Cross-Modality 3D Object Detection [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2008.09672)] Towards Autonomous Driving: a Multi-Modal 360∘ Perception Proposal[__`lidar`__][__`kitti`__]
 
+## Suvery
+- [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
+ - [[ARXIV](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
 ## 项目
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
