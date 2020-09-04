@@ -9,9 +9,9 @@
 按照传感器的输入： __`monocular`__: 单目 &emsp; __`stereo`__: 双目 &emsp;__`lidar`__: 点云 &emsp;</br>
 如果是多种传感器融合：  __`image+lidar`__: 图像+点云 &emsp;
 #### 对应实验数据集
-用于标注该文章实验对应的数据集： __`kitti`__: KITTI &emsp; __`nuse.`__: NuScence &emsp; __`waymo`__: Waymo &emsp; __`ATG4D`__: ATG4D &emsp; [__`lyft`__]: lyft&emsp; 
+用于标注该文章实验对应的数据集： __`kitti`__: KITTI &emsp; __`nuse`__: NuScenes &emsp; __`waymo`__: Waymo &emsp; __`ATG4D`__: ATG4D &emsp; __`lyft`__: lyft&emsp; 
 #### 代码
-标注代码实现框架： __`Tensorflow.`__: TensorFlow &emsp; __`PyTorch.`__: PyTorch &emsp; __`PyTorch.`__: PyTorch &emsp;
+标注代码实现框架： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 
 
 ## 2017 
