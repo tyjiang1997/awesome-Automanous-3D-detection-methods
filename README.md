@@ -4,7 +4,7 @@ This repositories is created for anyone who wants to do research about 3D detect
 ### keywords
 #### inputs
 __`monocular`__: monocular &emsp; __`stereo`__: stereo &emsp;__`lidar`__: point cloud &emsp;</br>
-如果是多种传感器融合：  __`image+lidar`__: image+lidar &emsp;
+__`image+lidar`__: image+lidar fusion &emsp;
 #### datasets
 experiments on datasets： __`kitti`__: KITTI &emsp; __`nuse`__: NuScenes &emsp; __`waymo`__: Waymo &emsp; __`ATG4D`__: ATG4D &emsp; __`lyft`__: lyft&emsp; 
 #### code
