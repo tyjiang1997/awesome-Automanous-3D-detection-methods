@@ -125,10 +125,10 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2008.13748)]Reinforced Axial Refinement Network for Monocular 3D Object Detection[__`monocular`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2008.12599.pdf)]PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges[__`lidar`__][__`kitti`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2008.12008.pdf)]GhostBuster: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing [__`lidar`__][__`kitti`__]
-
+- [[arxiv](https://arxiv.org/pdf/2007.07214)]CenterNet3D:An Anchor free Object Detector for Autonomous Driving [__`lidar`__][__`kitti`__]
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
- - [[ARXIV](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
+ - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
 ## code base 
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
