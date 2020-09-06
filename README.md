@@ -123,6 +123,7 @@
 - [[arxiv](https://arxiv.org/pdf/2008.10436.pdf)] Cross-Modality 3D Object Detection [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2008.09672)] Towards Autonomous Driving: a Multi-Modal 360∘ Perception Proposal[__`lidar`__][__`kitti`__]
 - [[arxiv](http://scholar.google.de/scholar?q=RangeRCNN:%20Towards%20Fast%20and%20Accurate%203D%20Object%20Detection%20with%20Range%20Image%20Representation)]  RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation[__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2009.00784.pdf)] CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection[__`lidar+image`__][__`kitti`__]
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
  - [[ARXIV](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
