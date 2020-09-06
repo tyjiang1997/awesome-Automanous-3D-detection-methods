@@ -1,17 +1,14 @@
 # awesome-Automanous-3D-detection-methods 
-## 前言
-该项目地址为：https://github.com/LittleYuanzi/awesome-Automanous-3D-detection-methods
-该项目主要在对近期（17年）开始的**自动驾驶场景**的目标检测方法做一个汇总，持续更新，也欢迎大家参与进来。为了方便表示，该项目仅仅针对自动驾驶场景，分类方法按照输入进行划分，特别地，我们也对论文实验对应的论文做出一定的标注。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200829190742145.png?xoss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDgwNTM5Mg==,size_16,color_FFFFFF,t_70#pic_center)
-
+## note
+This repositories is created for anyone who wants to do research about 3D detection in automanous scence. We will update the lateset papers as soon as possible. If you find the awesome paper/code or have some suggestions, please contact [tianyuan jiang](tianyjiang@gmail.com)
 ### keywords
 #### inputs
-按照传感器的输入： __`monocular`__: 单目 &emsp; __`stereo`__: 双目 &emsp;__`lidar`__: 点云 &emsp;</br>
-如果是多种传感器融合：  __`image+lidar`__: 图像+点云 &emsp;
-#### 对应实验数据集
-用于标注该文章实验对应的数据集： __`kitti`__: KITTI &emsp; __`nuse`__: NuScenes &emsp; __`waymo`__: Waymo &emsp; __`ATG4D`__: ATG4D &emsp; __`lyft`__: lyft&emsp; 
-#### 代码
-标注代码实现框架： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
+__`monocular`__: monocular &emsp; __`stereo`__: stereo &emsp;__`lidar`__: point cloud &emsp;</br>
+如果是多种传感器融合：  __`image+lidar`__: image+lidar &emsp;
+#### datasets
+experiments on datasets： __`kitti`__: KITTI &emsp; __`nuse`__: NuScenes &emsp; __`waymo`__: Waymo &emsp; __`ATG4D`__: ATG4D &emsp; __`lyft`__: lyft&emsp; 
+#### code
+framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 
 
 ## 2017 
@@ -132,7 +129,7 @@
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
  - [[ARXIV](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
-## 项目
+## code base 
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
 - [[lidar_only](https://github.com/open-mmlab/OpenPCDet)] OpenPCDet[__`kitti`__][__`nusc`__][__`waymo`__]
