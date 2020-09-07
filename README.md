@@ -121,7 +121,6 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2008.09672)] Towards Autonomous Driving: a Multi-Modal 360∘ Perception Proposal[__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2009.00206)]  RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation[__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2009.00784.pdf)] CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection[__`lidar+image`__][__`kitti`__]
-- [[arxiv](https://arxiv.org/pdf/2009.00784.pdf)] CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection[__`monocular`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2008.13748)]Reinforced Axial Refinement Network for Monocular 3D Object Detection[__`monocular`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2008.12599.pdf)]PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges[__`lidar`__][__`kitti`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2008.12008.pdf)]GhostBuster: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing [__`lidar`__][__`kitti`__]
