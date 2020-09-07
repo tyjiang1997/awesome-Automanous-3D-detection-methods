@@ -125,6 +125,9 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2008.12599.pdf)]PV-RCNN: The Top-Performing LiDAR-only Solutions for 3D Detection / 3D Tracking / Domain Adaptation of Waymo Open Dataset Challenges[__`lidar`__][__`kitti`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2008.12008.pdf)]GhostBuster: Looking Into Shadows to Detect Ghost Objects in Autonomous Vehicle 3D Sensing [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2007.07214)]CenterNet3D:An Anchor free Object Detector for Autonomous Driving [__`lidar`__][__`kitti`__]
+
+- [[arxiv](https://arxiv.org/pdf/2006.15505.pdf)] 1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation [__`lidar`__][__`waymo`__]
+
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
  - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
