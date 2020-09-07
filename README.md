@@ -95,7 +95,7 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[ECCV](https://arxiv.org/pdf/2004.12636)]   3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection.[__`lidar+image`__] [__`kitti`__] 
 - [[ECCV](https://arxiv.org/pdf/2007.09548)]    Kinematic 3D Object Detection in Monocular Video.[[code](http://cvlab.cse.msu.edu/project-kinematic.html)][__`monocular_video`__] [__`kitti`__] 
 - [[ECCV](https://arxiv.org/pdf/2008.04582)]   Rethinking Pseudo-LiDAR Representation.[[code](https://github.com/xinzhuma/patchnet)][__`monocular`__] [__`kitti`__] 
-- [[ECCV](https://arxiv.org/pdf/2007.12392)]  An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds.[__`lidar`__] [__`kitti`__] 
+- [[ECCV](https://arxiv.org/pdf/2007.12392)]  An LSTM Approach to Temporal 3D Object Detection in LiDAR Point Clouds.[__`lidar`__] [__`waymo`__] 
 - [[ECCV](https://arxiv.org/pdf/2007.10323)]  Pillar-based Object Detection for Autonomous Driving.[__`lidar`__] [__`waymo`__] 
 - [[ECCV](https://arxiv.org/pdf/2008.02191.pdf)]  Active Perception using Light Curtains for Autonomous Driving.[[code](http://siddancha.github.io/projects/active-perception-light-curtains)][__`lidar`__] 
 - [[ECCV](https://arxiv.org/pdf/2007.16100.pdf)]  Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution.[__`lidar`__] 
