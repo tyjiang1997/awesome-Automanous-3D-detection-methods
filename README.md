@@ -86,6 +86,7 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[CVPR](https://arxiv.org/pdf/2004.01389)] LiDAR-based Online 3D Video Object Detection with Graph-based Message Passing and Spatiotemporal Transformer Attention. [__`lidar_video`__] [__`nusc`__] 
 - [[CVPR](https://arxiv.org/pdf/2004.00543)] Physically Realizable Adversarial Examples for LiDAR Object Detection. [__`lidar`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.00186)]HVNet: Hybrid Voxel Network for LiDAR Based 3D Object Detection. [__`lidar`__] [__`kitti`__] 
+- [[CVPR](https://arxiv.org/pdf/2004.01170)]Dops: Learning to detect 3d objects and predict their 3d shapes. [__`lidar_video`__] [__`waymo`__] 
 - [[CVPR](https://arxiv.org/pdf/2004.08745)]Learning to Evaluate Perception Models Using Planner-Centric Metrics. [__`lidar`__]
 - [[CVPR](https://arxiv.org/pdf/1912.04986)]What You See is What You Get: Exploiting Visibility for 3D Object Detection. [__`lidar`__] [__`nusc`__] 
 - [[CVPR](https://arxiv.org/pdf/2003.06754)]MotionNet: Joint Perception and Motion Prediction for Autonomous Driving Based on Bird’s Eye View Maps. [__`lidar`__] 
