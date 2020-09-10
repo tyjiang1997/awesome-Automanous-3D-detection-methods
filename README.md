@@ -1,4 +1,4 @@
-# awesome-Automanous-3D-detection-methods 
+# Awesome-Automanous-3D-Detection-Methods 
 ## note
 This repositorie is created for anyone who wants to do research about 3D detection in automanous scence. We will update the lateset papers as soon as possible. If you find the awesome paper/code or have some suggestions, please contact [tianyjiang@gmail.com](tianyjiang@gmail.com)
 ### keywords
