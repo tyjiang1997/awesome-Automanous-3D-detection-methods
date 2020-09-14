@@ -129,6 +129,7 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2007.13373.pdf)] Part-Aware Data Augmentation for 3D Object Detection in Point Cloud. [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2006.15505.pdf)] 1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation. [__`lidar`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2009.04554.pdf)] RoIFusion: 3D Object Detection from LiDAR and Vision. [__`lidar+image`__][__`waymo`__]
+- [[arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds. [__`lidar`__][__`kitti`__]
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
  - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
