@@ -130,10 +130,13 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2006.15505.pdf)] 1st Place Solution for Waymo Open Dataset Challenge - 3D Detection and Domain Adaptation. [__`lidar`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2009.04554.pdf)] RoIFusion: 3D Object Detection from LiDAR and Vision. [__`lidar+image`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2009.05307.pdf)] A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2009.08428.pdf)] Radar-Camera Sensor Fusion for Joint Object Detection and Distance Estimation in Autonomous Vehicles
+. [__`lidar+image`__][__`nusc`__]
 - [[arxiv](https://arxiv.org/pdf/2009.06169.pdf)] 3D Object Detection and Tracking Based on Streaming Data. [__`lidar`__][__`kitti`__]['det_and_tracking']
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
- - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
+- [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
+- [[arxiv](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey[__`lidar`__]
 ## code base 
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
