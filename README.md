@@ -137,6 +137,7 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey[__`lidar`__]
+- [[arxiv](https://arxiv.org/pdf/2009.10945.pdf)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`lidar`__][__`kitti`__]
 ## code base 
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
