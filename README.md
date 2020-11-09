@@ -133,11 +133,24 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2009.08428.pdf)] Radar-Camera Sensor Fusion for Joint Object Detection and Distance Estimation in Autonomous Vehicles
 . [__`lidar+image`__][__`nusc`__]
 - [[arxiv](https://arxiv.org/pdf/2009.06169.pdf)] 3D Object Detection and Tracking Based on Streaming Data. [__`lidar`__][__`kitti`__]['det_and_tracking']
+- [[arxiv](https://arxiv.org/pdf/2011.02553.pdf)] Uncertainty-Aware Voxel based 3D Object Detection and Tracking with von-Mises Loss. [__`lidar`__][__`kitti`__]['det_and_tracking']
+- [[arxiv](https://arxiv.org/pdf/2011.01404.pdf)] Faraway-Frustum: Dealing with Lidar Sparsity for 3D Object Detection using Fusion. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2011.00652.pdf)] Multi-View Adaptive Fusion Network for 3D Object Detection. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2010.14599)] Stereo Frustums: A Siamese Pipeline for 3D Object Detection. [__`stereo`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2010.11702.pdf)]MLOD: Awareness of Extrinsic Perturbation in Multi-LiDAR 3D Object Detection for Autonomous Driving. [__`lidar`__]
+- [[arxiv](https://arxiv.org/pdf/2010.08243)]SF-UDA<sup>3D</sup>: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection. [__`lidar`__][__`kitti`__][__`nusc`__]
+- [[arxiv](https://arxiv.org/pdf/2010.08243)]Learning Monocular 3D Vehicle Detection without 3D Bounding Box Labels. [__`mono`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2009.12276.pdf)]SemanticVoxels: Sequential Fusion for 3D Pedestrian Detection using LiDAR Point Cloud and Semantic Segmentation. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2009.11975.pdf)]CoFF: Cooperative Spatial Feature Fusion for 3D Object Detection on Autonomous Vehicles. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2009.11859.pdf)]Multi-Frame to Single-Frame: Knowledge Distillation for 3D Object Detection. [__`lidar`__][__`waymo`__]
+- [[arxiv](https://arxiv.org/pdf/2009.10945.pdf)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`lidar`__][__`kitti`__]
+
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2009.08920.pdf)] Deep Learning for 3D Point Cloud Understanding: A Survey[__`lidar`__]
-- [[arxiv](https://arxiv.org/pdf/2009.10945.pdf)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`lidar`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2010.15614.pdf)] An Overview Of 3D Object Detection[__`lidar`__]
+
 ## code base 
 - [[lidar_only](https://github.com/traveller59/second.pytorch)] second.pytorch [__`kitti`__][__`nusc`__]
 - [[lidar_only](https://github.com/poodarchu/Det3D)] Det3D [__`kitti`__][__`nusc`__][__`lyft`__][__`waymo`__]
