@@ -144,7 +144,10 @@ framework ： __`Tensorflow`__: TensorFlow &emsp; __`PyTorch`__: PyTorch &emsp;
 - [[arxiv](https://arxiv.org/pdf/2009.11975.pdf)]CoFF: Cooperative Spatial Feature Fusion for 3D Object Detection on Autonomous Vehicles. [__`lidar`__][__`kitti`__]
 - [[arxiv](https://arxiv.org/pdf/2009.11859.pdf)]Multi-Frame to Single-Frame: Knowledge Distillation for 3D Object Detection. [__`lidar`__][__`waymo`__]
 - [[arxiv](https://arxiv.org/pdf/2009.10945.pdf)] MAFF-Net: Filter False Positive for 3D Vehicle Detection with Multi-modal Adaptive Feature Fusion. [__`lidar`__][__`kitti`__]
-
+- [[arxiv](https://arxiv.org/pdf/2011.04841)] CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection. [__`radar+image`__][__`nusc`__]
+- [[arxiv](https://arxiv.org/pdf/2011.02553)] Uncertainty-Aware Voxel based 3D Object Detection and Tracking with von-Mises Loss. [__`lidare`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2011.01630)] A Neural Network for Fast and Efficient Edge Detection in 3D Point Clouds. [__`lidare`__][__`kitti`__]
+- [[arxiv](https://arxiv.org/pdf/2011.01630)] A Neural Network for Fast and Efficient Edge Detection in 3D Point Clouds. [__`lidare`__][__`kitti`__]
 ## Suvery
 - [[TPAMI](https://arxiv.org/pdf/1912.12033)] Deep Learning for 3D Point Clouds: A Survey[__`lidar`__]
 - [[arxiv](https://arxiv.org/pdf/2003.00601)] 3D Point Cloud Processing and Learning for Autonomous Driving[__`lidar`__]
