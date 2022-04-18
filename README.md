@@ -1,6 +1,6 @@
-# Awesome-Automanous-3D-Detection-Methods 
+# Awesome-Aut-3D-Detection-Methods 
 ## note
-This repositorie is created for anyone who wants to do research about 3D detection in automanous scence. We will update the lateset papers as soon as possible. 
+This repository is created to collect excellent works on 3D object detection for autonomous driving tasks. We will update the latest papers as soon as possible. 
 ### keywords
 #### inputs
 __`monocular`__: monocular &emsp; __`stereo`__: stereo &emsp;__`lidar`__: point cloud &emsp;</br>
